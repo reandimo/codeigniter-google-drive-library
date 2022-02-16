@@ -4,9 +4,9 @@ defined( 'ABSPATH' ) || exit;
 
 class Google_Drive_Helper {
 
-    private $client_id = '839012733649-qvkk2m06af8tufcsihdi0eooo7rnhget.apps.googleusercontent.com';
+    private $client_id = 'XXXXX';
 
-    private $client_secret = '3CXCTU8r14ng4axMrBgaW9JA';  
+    private $client_secret = 'XXXX';  
 
     const ROOT_FOLDER = FCPATH . '/application/libraries/google';
 
